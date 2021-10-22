@@ -1,4 +1,4 @@
-# CheloFinance
+# Chelo Finance
 ## Finance Enhancement for Local Currencies
 
 Chelo is a DeFI platform that allows local currencies to provide financial services to the Small and Medium Enterprises (SMEs or SMBs). It is built on top of Local Stablecoins and it allows the members of a community to activly participate in creating financial reslience to the local businesses.
